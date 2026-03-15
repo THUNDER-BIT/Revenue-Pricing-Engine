@@ -4,7 +4,7 @@ A precision-focused financial tool built to calculate Total Contract Value (TCV)
 Backend: Java 18, Spring Boot 3.5
 
 Tech Stack
-Backend: Java 18, Spring Boot 3.5.x
+Backend: Java 17, Spring Boot 3.5.x
 
 Frontend: Thymeleaf, Bootstrap 5, JavaScript (Fetch API)
 
